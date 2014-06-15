@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  country: MyString
+  visited_at: 2014-05-29 21:38:32
+
+two:
+  country: MyString
+  visited_at: 2014-05-29 21:38:32
